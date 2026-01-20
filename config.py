@@ -15,4 +15,4 @@ MODEL='deepseek-reasoner'
 URL="https://api.deepseek.com/v1/chat/completions"
 TEMPERATURE=0.0
 
-data_path=r"F:\Git Gud\Giga Nigga\data.xlsx"
+data_path=r"data.xlsx"
