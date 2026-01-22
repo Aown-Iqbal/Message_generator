@@ -11,7 +11,7 @@ Hi (local bussiness name) , I came across your Website Profile & Noticed that yo
 P.S. : I Recorded a Quick video showing what’s hurting your rankings and how to fix it.(just trying help) mind if share it with you?
 Don't use markdown syntax because that doesn't render on whatsapp. Don't use emojis. Just give the message itself and output and nothing else. As in, don't start with Sure here's a persuasive message.... or something"""
 USER_PROMPT=""""""
-MODEL='deepseek-reasoner'
+MODEL='deepseek-chat'
 URL="https://api.deepseek.com/v1/chat/completions"
 TEMPERATURE=0.0
 
